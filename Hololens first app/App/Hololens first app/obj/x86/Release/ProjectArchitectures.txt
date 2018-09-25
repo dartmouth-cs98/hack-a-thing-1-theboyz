@@ -1,0 +1,2 @@
+C:\Users\naive\OneDrive\Desktop\Hololens first app\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\naive\OneDrive\Desktop\Hololens first app\App\Hololens first app\Hololens first app.csproj;x86
