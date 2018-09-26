@@ -5,11 +5,11 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-HoloToolkit-Unity.sln: 0C4B35CCC9621C127C543DC5A0E84C0E
+HoloToolkit-Unity.sln: 11F51C27515B496BFFAF9148DE5DAD21
 project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloToolkit-Unity\App.cs: 0520324551554AC1933F75DC91035096
-HoloToolkit-Unity\HoloToolkit-Unity.csproj: 2944CE4C1C54BCC21AF6ACF5EB75FF41
+HoloToolkit-Unity\HoloToolkit-Unity.csproj: 009FD9DEEBD6530584421D56F3FE8872
 HoloToolkit-Unity\HoloToolkit-Unity.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 HoloToolkit-Unity\Package.appxmanifest: C6A1CCE4D4E7A8C94C58722EE20A3D4E
 HoloToolkit-Unity\project.json: 1D02BC64BAC0D041019673A1C4C51737

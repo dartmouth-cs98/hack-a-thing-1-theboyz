@@ -5,7 +5,7 @@ VisualStudioVersion = 15.8.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloToolkit-Unity", "HoloToolkit-Unity\HoloToolkit-Unity.csproj", "{13A45C13-3265-47B8-BC48-A553B569DF55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{832F706C-3031-441E-84A2-B426E2E94582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,29 +47,29 @@ Global
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.ActiveCfg = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Build.0 = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Deploy.0 = Release|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|ARM.ActiveCfg = Debug|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|ARM.Build.0 = Debug|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|x64.ActiveCfg = Debug|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|x64.Build.0 = Debug|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|x86.ActiveCfg = Debug|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Debug|x86.Build.0 = Debug|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|ARM.ActiveCfg = Master|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|ARM.Build.0 = Master|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|x64.ActiveCfg = Master|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|x64.Build.0 = Master|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|x86.ActiveCfg = Master|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Master|x86.Build.0 = Master|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|ARM.ActiveCfg = Release|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|ARM.Build.0 = Release|ARM
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|x64.ActiveCfg = Release|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|x64.Build.0 = Release|x64
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|x86.ActiveCfg = Release|x86
-		{D67D57EB-AD4D-4B60-98FD-1DA5C670B029}.Release|x86.Build.0 = Release|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|ARM.ActiveCfg = Debug|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|ARM.Build.0 = Debug|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|x64.ActiveCfg = Debug|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|x64.Build.0 = Debug|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|x86.ActiveCfg = Debug|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Debug|x86.Build.0 = Debug|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|ARM.ActiveCfg = Master|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|ARM.Build.0 = Master|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|x64.ActiveCfg = Master|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|x64.Build.0 = Master|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|x86.ActiveCfg = Master|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Master|x86.Build.0 = Master|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|ARM.ActiveCfg = Release|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|ARM.Build.0 = Release|ARM
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|x64.ActiveCfg = Release|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|x64.Build.0 = Release|x64
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|x86.ActiveCfg = Release|x86
+		{832F706C-3031-441E-84A2-B426E2E94582}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BDBF9F6A-4CA1-4025-8E26-0EBDD2294995}
+		SolutionGuid = {332F7EC1-C6DE-4ED0-9886-224FA48BF510}
 	EndGlobalSection
 EndGlobal

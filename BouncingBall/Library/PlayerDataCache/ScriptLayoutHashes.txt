@@ -1,6 +1,6 @@
 Metro
 PlayerPath?
-C:/Users/naive/CS98/hack-a-thing-1-theboyz/BouncingBall/Holo
+C:/Users/naive/CS98/hack-a-thing-1-theboyz/BouncingBall/UWP
 SceneListBegin?
 Assets/Scenes/main.unity
 SceneListEnd?
