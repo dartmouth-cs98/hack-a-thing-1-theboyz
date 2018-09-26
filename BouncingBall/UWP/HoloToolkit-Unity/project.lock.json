@@ -15855,12 +15855,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\HoloToolkit-Unity\\HoloToolkit-Unity.csproj",
+      "projectUniqueName": "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\HoloToolkit-Unity\\HoloToolkit-Unity.csproj",
       "projectName": "HoloToolkit-Unity",
-      "projectPath": "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\HoloToolkit-Unity\\HoloToolkit-Unity.csproj",
-      "projectJsonPath": "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\HoloToolkit-Unity\\project.json",
+      "projectPath": "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\HoloToolkit-Unity\\HoloToolkit-Unity.csproj",
+      "projectJsonPath": "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\HoloToolkit-Unity\\project.json",
       "packagesPath": "C:\\Users\\naive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\HoloToolkit-Unity\\obj\\",
+      "outputPath": "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\HoloToolkit-Unity\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\naive\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15873,8 +15873,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\naive\\OneDrive\\Desktop\\BouncingBall\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\naive\\CS98\\hack-a-thing-1-theboyz\\BouncingBall\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }

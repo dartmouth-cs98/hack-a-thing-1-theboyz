@@ -1,0 +1,2 @@
+C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\UWP\HoloToolkit-Unity\HoloToolkit-Unity.csproj;x86

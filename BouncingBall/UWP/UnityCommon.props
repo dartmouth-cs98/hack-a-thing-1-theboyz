@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <UnityWSASolutionName>BouncingBall</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\naive\OneDrive\Desktop\BouncingBall\UWP\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\naive\OneDrive\Desktop\BouncingBall\</UnityProjectDir>
+        <UnityWSASolutionName>HoloToolkit-Unity</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\naive\CS98\hack-a-thing-1-theboyz\BouncingBall\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

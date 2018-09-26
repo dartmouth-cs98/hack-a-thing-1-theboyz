@@ -5,22 +5,12 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-BouncingBall.sln: 8647FBDF68E84029794B0E07F29EDA44
+HoloToolkit-Unity.sln: 0C4B35CCC9621C127C543DC5A0E84C0E
 project.json: 1D02BC64BAC0D041019673A1C4C51737
-BouncingBall\App.cs: 1C8FDC1279B0D26343B7EDF9A809E164
-BouncingBall\BouncingBall.csproj: A39CC4DBBDA5B0D61C3639E861C00F71
-BouncingBall\BouncingBall.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
-BouncingBall\Package.appxmanifest: F39F3EDC246D7F2E724F81471A88A090
-BouncingBall\project.json: 1D02BC64BAC0D041019673A1C4C51737
-BouncingBall\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
-BouncingBall\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-BouncingBall\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-BouncingBall\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-BouncingBall\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-BouncingBall\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-BouncingBall\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloToolkit-Unity\App.cs: 0520324551554AC1933F75DC91035096
+HoloToolkit-Unity\HoloToolkit-Unity.csproj: 2944CE4C1C54BCC21AF6ACF5EB75FF41
+HoloToolkit-Unity\HoloToolkit-Unity.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 HoloToolkit-Unity\Package.appxmanifest: C6A1CCE4D4E7A8C94C58722EE20A3D4E
 HoloToolkit-Unity\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloToolkit-Unity\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
