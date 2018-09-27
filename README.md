@@ -20,12 +20,12 @@ We both got some experience working in Unity as well as coding in C\#.
 
 ## Miscellaneous Tests with Unity & AR
 ### Summary
-For Hack a Thing 2, we decided to continue working with Unity, specifically looking at different ways of integrating AR & controller support. We used several tutorials to build a floating cube and a bouncing ball for Hololens. We ended up spending a lot of time attempting to get programs onto the Hololens from our laptops, but in the end, we are excited about what we were able to do. In addition, we looked at ARCore and putting an AR application on an Android phone. Wanting to make a similar demo to what we made for Hololens, we modified an example provided with the ARCore kit and followed some of the directions from the previously mentioned tutorial. In addition, we leveraged ARCoreUtils to make the planes found by ARCore into colliders.
+For Hack a Thing 2, we decided to continue working with Unity, specifically looking at different ways of integrating AR & controller support. We used several tutorials to build a floating cube and a bouncing ball for Hololens (https://www.youtube.com/watch?v=FmYp5dqqYAQ). We ended up spending a lot of time attempting to get programs onto the Hololens from our laptops, but in the end, we are excited about what we were able to do. In addition, we looked at ARCore and putting an AR application on an Android phone. Wanting to make a similar demo to what we made for Hololens, we modified an example provided with the ARCore kit (Called "HelloAR") and followed some of the directions from the previously mentioned tutorial. In addition, we leveraged ARCoreUtils (https://github.com/jonas-johansson/ARCoreUtils) to make the planes found by ARCore into colliders, which proved to be nontrivial.
 
-We also looked at adding Xbox One controller support to the games we made last week.
+We also looked at adding Xbox One controller support to the 3rd person game we made last week (Driver: https://github.com/360Controller/360Controller).
 
 ### Division of Labor
-Oliver did the majority of the work on the Hololens (Matthew attempted to trouble shoot a bit), and Matthew worked on the ARCore app and controller support.
+Oliver did the majority of the work on the Hololens (Matthew trouble shot a bit), and Matthew worked on the ARCore app and controller support.
 
 ### What We Learned
 We continued to develop comfort with Unity as well as the different things that you can do with it.
